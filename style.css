@@ -1,0 +1,35 @@
+header {
+    background-color:#03406A;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+nav {
+    line-height:30px;
+    background-color:#24577B;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+section {
+    background-color:#65A5D1
+    width:350px;
+    float:left;
+    padding:10px;
+}
+footer {
+    background-color:#03406A;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+h1   {
+        font-family:verdana;
+        font-size:300%;}
+p    {
+        font-family:times;
+        font-size:160%;
+        }
